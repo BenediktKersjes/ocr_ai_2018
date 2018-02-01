@@ -1,0 +1,6 @@
+.idea
+sf_aiproject.iml
+__pycache__
+data*
+*pyc
+trained_models/
